@@ -11,4 +11,5 @@ public class GreetingResponse {
     private String greeting;
     private int dieRoll;
     private List<String> roomNumbers;
+    private List<String> emailAddresses;
 }
